@@ -1,9 +1,9 @@
 baseurl = "https://youyan.github.io/"
 title = "Black & Light"
-author = "David Hamp-Gonsalves"
+author = "youyan"
 canonifyurls = true
 languagecode = "en"
-theme = "black-and-light"
+theme = "Fan Fiction _By 又延"
 
 pygmentsstyle       = "bw"
 pygmentscodefences  = true

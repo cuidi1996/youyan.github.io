@@ -1,9 +1,9 @@
 baseurl = "https://youyan.github.io/"
-title = "Black & Light"
+title = "Fan Fiction _By 又延"
 author = "youyan"
 canonifyurls = true
 languagecode = "en"
-theme = "Fan Fiction _By 又延"
+theme = "black-and-light"
 
 pygmentsstyle       = "bw"
 pygmentscodefences  = true

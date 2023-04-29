@@ -19,6 +19,5 @@ pygmentscodefences  = true
     name = "Projects"
     url  = ""
 [[menu.main]]
-    name = "Resume"
-    url  = ""
+  
 

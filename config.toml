@@ -1,6 +1,6 @@
 baseURL = "https://cuidi1996/youyan.github.io/"
 # title = "Hugo Themes"
-author = "Steve Francia"
+author = "youyan"
 copyright = "Copyright © 2008–2019, Steve Francia and the lee.so; all rights reserved."
 paginate = 3
 languageCode = "en"
@@ -17,13 +17,11 @@ title = "又延"
 [params]
   color = 'linen'
 
-  twitter = 'nanxiaobei'
-  github = 'nanxiaobei'
-  instagram = 'nan.xiaobei'
+
 
   avatar = 'nanxiaobei@gmail.com'
-  name = 'Lee'
-  bio = 'Discover fresh context'
+  name = '又延'
+  bio = '水平一般的同人文写手、幼儿园水平画手、名柯死忠粉、天秤座、INFJ'
 # ------------------------------
 
 # needed to  render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)

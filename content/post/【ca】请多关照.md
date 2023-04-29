@@ -1,11 +1,12 @@
----
-author: "又延"
-date: 2021-04-09
-linktitle: Creating a New Theme
-title: 【CA】请多关照
-tags = ["柯哀"]
----
-
++++
+author = "又延"
+title = "【CA】请多关照"
+date = "2021-12-15"
+description = "Lorem Ipsum Dolor Si Amet"
+tags = [
+    "CA"
+]
++++
 
 ## 00
 
@@ -376,10 +377,10 @@ tags = ["柯哀"]
 她说：“请多关照。”
 
 
+{{< css.inline >}}
 
+<style>
+.canon { background: white; width: 100%; height: auto; }
+</style>
 
-
-
-
-
-
+{{< /css.inline >}}

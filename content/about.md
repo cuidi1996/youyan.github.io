@@ -1,5 +1,5 @@
 +++
-title = "About me"
+title = "About"
 
 又延，水平一般的同人文写手、幼儿园水平画手、天秤座、INFJ、名柯死忠粉、
 
